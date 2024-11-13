@@ -1,4 +1,4 @@
-This repository contains the code referenced in the paper **Redundant Cross-Correlation for Drift Correction in SEM Nanoparticle Imaging**. A preprint will be published on arXiv shortly.
+This repository contains the code referenced in the paper **Redundant Cross-Correlation for Drift Correction in SEM Nanoparticle Imaging**. A preprint is available on arXiv: [arxiv.org/abs/2410.23390](https://arxiv.org/abs/2410.23390)
 
 ### Example usage
 
